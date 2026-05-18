@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-  Built under <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a> ·
-  <a href="https://github.com/nustforge">GitHub Organization</a>
+  Built under <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a>
 </p>
 
 <p align="center">
   <a href="https://servipro.co.uk/">Live Platform</a> ·
-  <a href="https://www.nustforge.com">NUSTFORGE Website</a> ·
   <a href="https://github.com/nustforge">GitHub Organization</a>
 </p>
 
